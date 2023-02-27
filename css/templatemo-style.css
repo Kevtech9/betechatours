@@ -48,7 +48,7 @@ body { overflow-x: hidden; }
 }
 .tm-nav li {
 	list-style: none;
-	float: left;
+	float: right;
 }
 .tm-nav li a {
 	color: #838383;
